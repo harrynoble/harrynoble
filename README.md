@@ -1,6 +1,5 @@
 <!-- ====================================================================== -->
 <!--                          HARRY NOBLE · README                          -->
-<!--   Tip: replace the placeholder URLs marked with  <-- EDIT  below.      -->
 <!-- ====================================================================== -->
 
 <!-- ============================ HEADER BANNER ============================ -->
@@ -25,10 +24,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://harrynoble.github.io) <!-- EDIT -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harrynoble) <!-- EDIT -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harry.noble@example.com) <!-- EDIT -->
-[![Resume](https://img.shields.io/badge/Resume-2C5364?style=for-the-badge&logo=readdotcv&logoColor=white)](https://harrynoble.github.io/resume.pdf) <!-- EDIT -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://harrynoble.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harry-noble-266781354/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nobleharry2@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-2C5364?style=for-the-badge&logo=readdotcv&logoColor=white)](https://harrynoble.in/assets/Harry_Noble_Resume.pdf)
 
 ![GitHub followers](https://img.shields.io/github/followers/harrynoble?style=for-the-badge&logo=github&color=203A43&logoColor=white&labelColor=0F2027)
 ![Profile Views](https://komarev.com/ghpvc/?username=harrynoble&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS)
@@ -182,42 +181,6 @@ class HarryNoble:
 
 ---
 
-<!-- ============================ ACHIEVEMENTS ============================ -->
-
-## &nbsp; Achievements
-
-![CBSE](https://img.shields.io/badge/CBSE_12th-90%25-2C5364?style=for-the-badge&logo=googlescholar&logoColor=white)
-![KEAM](https://img.shields.io/badge/KEAM_2025-80_percentile-203A43?style=for-the-badge&logo=target&logoColor=white)
-![GitHub](https://img.shields.io/badge/Active_GitHub_Learner-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-<!-- ============================ CERTIFICATIONS ============================ -->
-
-## &nbsp; Certifications
-
-<!-- Replace the link targets (#) with your certificate URLs as you earn them. -->
-
-[![Python](https://img.shields.io/badge/Python_Essentials-FFD43B?style=for-the-badge&logo=python&logoColor=black)](#)
-[![ML](https://img.shields.io/badge/Machine_Learning_Basics-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Version_Control_with_Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![Web](https://img.shields.io/badge/Web_Development-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-
-> &nbsp;*Add your verified certificate links above as you complete them.*
-
----
-
-<!-- ============================ CODING PROFILES ============================ -->
-
-## &nbsp; Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/harrynoble) <!-- EDIT -->
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/harrynoble) <!-- EDIT -->
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/harrynoble) <!-- EDIT -->
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/harrynoble) <!-- EDIT -->
-
----
-
 <!-- ============================ GITHUB ANALYTICS ============================ -->
 
 ## &nbsp; GitHub Analytics
@@ -239,7 +202,7 @@ class HarryNoble:
 <br/><br/>
 
 <!-- Trophies -->
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=harrynoble&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies" />
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=harrynoble&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
 
 </div>
 
@@ -257,8 +220,12 @@ class HarryNoble:
 <br/><br/>
 
 <!-- Snake eating contributions -->
-<!-- Needs the snake GitHub Action (see setup note at the bottom of this file). -->
-<img width="95%" src="https://raw.githubusercontent.com/harrynoble/harrynoble/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating contributions" />
+<!-- Renders only after the snake GitHub Action runs (see .github/workflows/snake.yml). -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harrynoble/harrynoble/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harrynoble/harrynoble/output/github-contribution-grid-snake.svg" />
+  <img width="95%" src="https://raw.githubusercontent.com/harrynoble/harrynoble/output/github-contribution-grid-snake.svg" alt="Snake animation eating contributions" />
+</picture>
 
 <br/>
 
@@ -277,33 +244,3 @@ class HarryNoble:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="footer" />
 
 </div>
-
-<!-- ====================================================================== -->
-<!--  SETUP NOTES (delete this whole block before committing if you like)   -->
-<!--                                                                        -->
-<!--  1. Repo name: create a public repo named exactly  harrynoble  so      -->
-<!--     this README shows on your profile page.                            -->
-<!--                                                                        -->
-<!--  2. Replace every URL marked  <-- EDIT  with your real links           -->
-<!--     (portfolio, LinkedIn, email, resume, coding profiles).             -->
-<!--                                                                        -->
-<!--  3. SNAKE ANIMATION: add this GitHub Action at                          -->
-<!--     .github/workflows/snake.yml  so the snake SVG is generated:        -->
-<!--                                                                        -->
-<!--     name: Generate Snake                                               -->
-<!--     on:                                                                -->
-<!--       schedule: [ { cron: "0 */12 * * *" } ]                           -->
-<!--       workflow_dispatch:                                               -->
-<!--     jobs:                                                              -->
-<!--       build:                                                           -->
-<!--         runs-on: ubuntu-latest                                         -->
-<!--         steps:                                                         -->
-<!--           - uses: Platane/snk@v3                                       -->
-<!--             with:                                                      -->
-<!--               github_user_name: harrynoble                            -->
-<!--               outputs: |                                              -->
-<!--                 dist/github-contribution-grid-snake-dark.svg           -->
-<!--           - uses: crazy-max/ghaction-github-pages@v3                   -->
-<!--             with: { target_branch: output, build_dir: dist }          -->
-<!--             env: { GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} }         -->
-<!-- ====================================================================== -->
